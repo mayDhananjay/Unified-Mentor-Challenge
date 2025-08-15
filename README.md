@@ -5,7 +5,7 @@ Each project focuses on responsive design, modern animations, and interactive fe
 
 ---
 
-## 🎨 Portfolio Website
+## 🎨 Portfolio Website visit: https://maydhananjay1.netlify.app/
 **Technologies:** HTML5, CSS3, JavaScript ES6+, Bootstrap 5.3.7  
 **Animations:** GSAP 3.13.0, ScrollTrigger, ScrollSmoother, Typed.js  
 
@@ -16,7 +16,7 @@ Each project focuses on responsive design, modern animations, and interactive fe
 
 ---
 
-## 🖼 Image Slider
+## 🖼 Image Slider visit:  https://delslider.netlify.app/
 **Technologies:** HTML5, CSS3, JavaScript ES6+, Swiper.js 11.0  
 
 **Features:**
@@ -27,7 +27,7 @@ Each project focuses on responsive design, modern animations, and interactive fe
 
 ---
 
-## 🏛 Virtual Art Gallery
+## 🏛 Virtual Art Gallery visit: https://artgalry.netlify.app/
 **Technologies:** HTML5, CSS3, JavaScript ES6+, Firebase v12.0.0  
 
 **Advanced Features:**
