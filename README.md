@@ -35,6 +35,7 @@ Each project focuses on responsive design, modern animations, and interactive fe
 - Pinterest-style masonry layout  
 - Multi-page professional architecture  
 - Custom lightbox with navigation  
+- 🔐 User authentication (email/password login & sign-up via Firebase Auth)  
 
 ---
 
